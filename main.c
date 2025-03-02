@@ -16,7 +16,7 @@ int main() {
     
     // 游戏主循环
     while (1) {
-        // 检查键盘输入并更新方向
+        // 检查键盘输入并更新方向6666
         if (_kbhit()) {
             char ch = _getch();
             switch (ch) {
