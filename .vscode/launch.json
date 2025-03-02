@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Run Snake Game",
+        "type": "cppvsdbg",
+        "request": "launch",
+        "program": "${workspaceFolder}\\snake_game.exe",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${workspaceFolder}",
+        "environment": [],
+        "externalConsole": true
+      }
+    ]
+  }
